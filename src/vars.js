@@ -369,6 +369,7 @@ exports.browser = {
   TimeEvent            : false,
   top                  : false,
   URL                  : false,
+  URLSearchParams      : false,
   WebGLActiveInfo      : false,
   WebGLBuffer          : false,
   WebGLContextEvent    : false,
